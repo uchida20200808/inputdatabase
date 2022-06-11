@@ -123,7 +123,7 @@ Static4 = tkinter.Label(text=u'担当')
 Static4.pack()
 #エントリー
 EditBox4 = tkinter.Entry()
-EditBox4.insert(tkinter.END,'大黒知紗')
+EditBox4.insert(tkinter.END,'田中太郎')
 EditBox4.pack()
 #ここで，valueにEntryの中身が入る
 value4 = EditBox4.get()
